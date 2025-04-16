@@ -1,0 +1,2678 @@
+{
+  "name": "let me seeg",
+  "description": "Generated with Neverlose Converter",
+  "update_timestamp": 1744819023,
+  "locations": {
+    "csgo_grenades": [
+      {
+        "name": [
+          "Pipes to Truck",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Vents",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Middle",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Ledge to CT B Site Entry",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to B Main Entry",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Wood Panels to Highway",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Quad",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Skull to Quad",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Quad or Forklift",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Generator/Headglitch",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Fence to B Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to Site/Truck",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Wall to Checkers",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Corner to B Halls/B Main",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Quad to A Main",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Garage to Right Side of Mid",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Vent to Z",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_hegrenade"
+      },
+      {
+        "name": [
+          "Quad Corner to A Main",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Checkers to Vent",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Checkers to B Hall",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Vent to Under Vent",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Flash Room to Back Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Flash Room to Default",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Back Site to Heaven",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Site to Heaven",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Heaven to Back Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "T Spawn Truck to Z",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Boost to Z",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Site to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Hall to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Hall to Heaven",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Z to Garage",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Spawn Truck to Mid Box",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long A to A Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long A to Highway Side of A",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Garage to Sandbags",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Garage to Mid",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "B Hall to B Main",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Under Vent to Vent (Oneway)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Chicken",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Bridge",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "dropper",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "drop",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "dropp",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "dropper",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Car A",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "long B",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "chicken",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "a Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Long Barrel to Car",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "D-Doors to Long Corner",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "D-Doors to Right Side of Long Corner",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "D-Doors to Blue Container",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Car to Double Doors",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "CT Mid to B Tunnels",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "CT Mid to B Tunnels #2",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "A Site to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Car to D-Doors Oneway",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Outside Long to XBOX",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "D-Doors to XBOX",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Lower Tunnels to XBOX",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Fast Cat to D-Doors",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "XBOX to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Short to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Elevator to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "XBOX to Doors",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Cross to Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Upper Tunnels to B Entrance",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Spawn to Doors",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "D-Doors to D-Doors (Oneway)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "CT Mid to Dark",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Box to Tunnels",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Box to Tunnels",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Under Window to Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Scaffold to B Tunnels",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "CT Mid to B",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Upper Tunnels to B Entrance",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Mid Doors to Lower Tunnel",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Mid to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Cross to Long Corner",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Car to Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Outside Long to Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Elevator to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "CT Mid to XBOX",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Short to A",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "A to Cat",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Outside Long to Long Corner",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long to Cat",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "A Alley to CT",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Roof to Middle of Boxes in A",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Roof to A Stairs",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Roof to Connector-Jungle Area",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Window to Window (Oneway)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Alley to B Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back of Top Mid to Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Spawn to Connector",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Alley to B Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Alley to Kitchen Window",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Alley to Back of B Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Alley to Bench",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Short to A Palace",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back of Top Mid to Connector",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "A Palace to Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Sandwich to Jungle-Connector",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Aps to Kitchen Window",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_hegrenade"
+      },
+      {
+        "name": [
+          "B Balcony to Kitchen Window",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Under Balcony to A Palace",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "T Roof to Sandwich",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Window to Underpass",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Short Tunnel",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Barrels",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Barrely",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Bridge",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Car",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Container",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Smoke Spools B Plant",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Smoke CT on B Plant",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Plant 1 (FNATIC)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "B Plant 2 Grill (FNATIC)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Back Pit",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Front Pit",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Minipit",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Short",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Archway",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Library",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Deep Long",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Smoke Mid B Retake",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Smoke Construction Retake",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "T Roof to Ladder",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Mid to Sniper's Nest",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "CT to Mid",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Alley to B Default",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Alley to Market Window",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Alley to Market Door",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "Connector to Underpass",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_smokegrenade"
+      },
+      {
+        "name": [
+          "A Palace to Under Balcony",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_molotov"
+      },
+      {
+        "name": [
+          "Under Balcony to A Ramp",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Under Balcony to A Ramp (Popflash)",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Under Balcony to A Ramp",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Balcony to Palace",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Stairs to A Site",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Short to Mid",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Truck to B Apartments",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Top Mid to Window",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      },
+      {
+        "name": [
+          "Apartments to Truck",
+          ""
+        ],
+        "weapon": "weapon_molotov",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "viewangles": [
+          0,
+          0
+        ],
+        "grenade": "weapon_flashbang"
+      }
+    ]
+  }
+}
